@@ -25,11 +25,11 @@
     <distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://http://3.106.186.193:8081/repository/reg-app-release//</url>
+			<url>http://3.106.186.193:8081/repository/reg-app-release//</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://http://3.106.186.193:8081/repository/reg-app-snapshot//</url>
+			<url>http://3.106.186.193:8081/repository/reg-app-snapshot//</url>
 		</snapshotRepository>
     </distributionManagement>
 
